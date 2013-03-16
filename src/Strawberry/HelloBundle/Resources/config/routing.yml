@@ -1,0 +1,3 @@
+strawberry_hello_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: StrawberryHelloBundle:Default:index }

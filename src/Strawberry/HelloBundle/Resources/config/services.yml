@@ -1,0 +1,7 @@
+parameters:
+#    strawberry_hello.example.class: Strawberry\HelloBundle\Example
+
+services:
+#    strawberry_hello.example:
+#        class: %strawberry_hello.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
