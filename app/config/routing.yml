@@ -1,0 +1,4 @@
+strawberry_hello:
+    resource: "@StrawberryHelloBundle/Resources/config/routing.yml"
+    prefix:   /
+
